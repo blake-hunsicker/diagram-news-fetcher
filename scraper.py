@@ -2,6 +2,7 @@ import time
 import requests
 from bs4 import BeautifulSoup
 
+print('Good morning 🌞')
 print('What story do you want to scrape?')
 url = input()
 print('🪐 OK 🪐 will try scraping' + url)
